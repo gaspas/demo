@@ -1,25 +1,41 @@
 [{
-        "consulta": "Sauce - Thousand Island",
-        "especialidade": "Soanindrariny"
+        "consulta": "Acupuntura",
+        "especialidade": "Acupuntura"
     },
     {
-        "consulta": "Wild Boar - Tenderloin",
-        "especialidade": "Luthu"
+        "consulta": "Anestesiologia",
+        "especialidade": "Anestesiologia"
     },
     {
-        "consulta": "Goat - Whole Cut",
-        "especialidade": "Kargowa"
+        "consulta": "Cardiologia",
+        "especialidade": "Cardiologia"
     },
     {
-        "consulta": "Cherries - Bing, Canned",
-        "especialidade": "Colonia Aurora"
+        "consulta": "Cardiotorácica",
+        "especialidade": "Cardiotorácica"
     },
     {
-        "consulta": "Table Cloth 62x120 Colour",
-        "especialidade": "Poykovskiy"
+        "consulta": "Dermatologia",
+        "especialidade": "Dermatologia"
     },
     {
-        "consulta": "Bag - Clear 7 Lb",
-        "especialidade": "Buenavista"
+        "consulta": "Endocrinologia",
+        "especialidade": "Endocrinologia"
+    },
+    {
+        "consulta": "Gastrenterologia",
+        "especialidade": "Gastrenterologia"
+    },
+    {
+        "consulta": "Hematologia",
+        "especialidade": "Hematologia"
+    },
+    {
+        "consulta": "Imunoalergologia",
+        "especialidade": "Imunoalergologia"
+    },
+    {
+        "consulta": "Imunohemoterapia",
+        "especialidade": "Imunohemoterapia"
     }
 ]
